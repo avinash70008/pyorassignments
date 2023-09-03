@@ -1,4 +1,4 @@
-# PYOR Company Assignment - Next.js Application
+# PYOR Assignment - Next.js Application
 
 This repository contains the codebase for the assignment given by PYOR Company. The assignment was created using the Next.js tech stack. The deployed version of the application can be accessed at [https://pyor-assignment-1.vercel.app/](https://pyor-assignment-1.vercel.app/).
 
